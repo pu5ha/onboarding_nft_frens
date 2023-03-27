@@ -1,0 +1,7 @@
+.button {
+  @apply transition duration-200 ease-in;
+}
+
+.button:active {
+  @apply transform scale-90;
+}

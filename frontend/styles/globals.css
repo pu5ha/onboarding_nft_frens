@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-custom {
+  background-image: url('/images/wallpaper.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-start {
+  background-image: url('/images/robot.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-mint {
+  background-image: url('/images/mint.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
